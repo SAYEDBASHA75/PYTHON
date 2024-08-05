@@ -1,0 +1,3 @@
+list=[|"naveen"]
+list.reverse()
+print(list)
