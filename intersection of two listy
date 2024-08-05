@@ -1,1 +1,9 @@
-sfrh
+a=[1,2,3,4]
+b=[6,7,8,9]
+seta=set(a)
+setb=set(b)
+if(seta&setb):
+print("intresection of two list",seta&setb)
+else:
+print("not")
+
